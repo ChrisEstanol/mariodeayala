@@ -1,0 +1,40 @@
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a:focus,
+a:hover,
+a:visited {
+ text-decoration: none;
+ background-color: transparent;
+ }
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.title {
+    margin: 40vh 50vh;
+}
